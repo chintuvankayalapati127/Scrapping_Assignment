@@ -1,0 +1,192 @@
+2026-10-06 18:00:18,371 | INFO | ========== SCRAPING STARTED ==========
+2026-10-06 18:00:18,371 | INFO | Scraping books page: https://books.toscrape.com/
+2026-10-06 18:00:20,615 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 18:00:22,479 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 18:00:24,378 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 18:00:26,336 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 18:00:28,405 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 18:00:30,240 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 18:00:32,028 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 18:00:33,925 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 18:00:35,836 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 18:00:38,690 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 18:00:40,589 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 18:00:47,158 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 18:00:49,761 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 18:00:54,198 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 18:00:57,897 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 18:01:00,123 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 18:01:03,808 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 18:01:07,210 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 18:01:12,760 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 18:01:15,080 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 18:01:19,062 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 18:01:22,089 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 18:01:25,063 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 18:01:30,319 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 18:01:32,498 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 18:01:34,474 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 18:01:36,356 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 18:01:38,268 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 18:01:40,510 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 18:01:42,314 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 18:01:44,256 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 18:01:46,186 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 18:01:48,011 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 18:01:50,231 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 18:01:52,426 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 18:01:54,448 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 18:01:56,330 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 18:01:58,102 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 18:01:59,888 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 18:02:01,691 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 18:02:03,651 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 18:02:05,642 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 18:02:07,555 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 18:02:09,421 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 18:02:11,678 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 18:02:13,591 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 18:02:15,378 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 18:02:17,118 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 18:02:19,078 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 18:02:20,882 | INFO | Books scraped successfully: 1000
+2026-10-06 18:02:20,882 | INFO | Scraping quotes page: https://quotes.toscrape.com/
+2026-10-06 18:02:22,434 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/2/
+2026-10-06 18:02:23,985 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/3/
+2026-10-06 18:02:25,491 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/4/
+2026-10-06 18:02:27,043 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/5/
+2026-10-06 18:02:28,564 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/6/
+2026-10-06 18:02:30,022 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/7/
+2026-10-06 18:02:31,590 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/8/
+2026-10-06 18:02:33,064 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/9/
+2026-10-06 18:02:34,583 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/10/
+2026-10-06 18:02:36,042 | INFO | Quotes scraped successfully: 100
+2026-10-06 18:02:36,042 | INFO | Books collected: 1000
+2026-10-06 18:02:36,042 | INFO | Quotes collected: 100
+2026-10-06 18:02:36,080 | INFO | Records after cleaning: 1100
+2026-10-06 18:02:36,103 | INFO | Valid records: 1100
+2026-10-06 18:02:36,103 | WARNING | Rejected records: 0
+2026-10-06 18:02:36,116 | INFO | Duplicate records removed: 1
+2026-10-06 18:02:36,188 | INFO | Final dataset saved to: C:\Users\User\OneDrive\Desktop\Scrapping_Assignment\output\final_dataset.csv
+2026-10-06 18:02:36,190 | INFO | Summary saved to: C:\Users\User\OneDrive\Desktop\Scrapping_Assignment\output\summary_report.json
+2026-10-06 18:02:36,190 | INFO | ========== SCRAPING COMPLETED ==========
+2026-10-06 18:14:30,797 | INFO | ========== SCRAPING STARTED ==========
+2026-10-06 18:14:30,799 | INFO | Scraping books page: https://books.toscrape.com/
+2026-10-06 18:15:05,125 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 18:15:37,747 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 18:16:09,906 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 18:16:41,747 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 18:17:13,960 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 18:17:46,415 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 18:18:21,187 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 18:18:57,956 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 18:19:31,445 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 18:20:07,570 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 18:20:41,713 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 18:21:15,524 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 18:21:49,686 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 18:22:22,664 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 18:22:32,203 | WARNING | Could not fetch book details: https://books.toscrape.com/catalogue/mr-mercedes-bill-hodges-trilogy-1_717/index.html | ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-10-06 18:22:32,431 | WARNING | Could not fetch book details: https://books.toscrape.com/catalogue/more-than-music-chasing-the-dream-1_716/index.html | HTTPSConnectionPool(host='books.toscrape.com', port=443): Max retries exceeded with url: /catalogue/more-than-music-chasing-the-dream-1_716/index.html (Caused by NameResolutionError("HTTPSConnection(host='books.toscrape.com', port=443): Failed to resolve 'books.toscrape.com' ([Errno 11001] getaddrinfo failed)"))
+2026-10-06 18:22:32,675 | WARNING | Could not fetch book details: https://books.toscrape.com/catalogue/made-to-stick-why-some-ideas-survive-and-others-die_715/index.html | HTTPSConnectionPool(host='books.toscrape.com', port=443): Max retries exceeded with url: /catalogue/made-to-stick-why-some-ideas-survive-and-others-die_715/index.html (Caused by NameResolutionError("HTTPSConnection(host='books.toscrape.com', port=443): Failed to resolve 'books.toscrape.com' ([Errno 11001] getaddrinfo failed)"))
+2026-10-06 18:22:32,890 | WARNING | Could not fetch book details: https://books.toscrape.com/catalogue/luis-paints-the-world_714/index.html | HTTPSConnectionPool(host='books.toscrape.com', port=443): Max retries exceeded with url: /catalogue/luis-paints-the-world_714/index.html (Caused by NameResolutionError("HTTPSConnection(host='books.toscrape.com', port=443): Failed to resolve 'books.toscrape.com' ([Errno 11001] getaddrinfo failed)"))
+2026-10-06 18:22:32,927 | WARNING | Could not fetch book details: https://books.toscrape.com/catalogue/luckiest-girl-alive_713/index.html | HTTPSConnectionPool(host='books.toscrape.com', port=443): Max retries exceeded with url: /catalogue/luckiest-girl-alive_713/index.html (Caused by NameResolutionError("HTTPSConnection(host='books.toscrape.com', port=443): Failed to resolve 'books.toscrape.com' ([Errno 11001] getaddrinfo failed)"))
+2026-10-06 18:22:33,000 | WARNING | Could not fetch book details: https://books.toscrape.com/catalogue/lowriders-to-the-center-of-the-earth-lowriders-in-space-2_712/index.html | HTTPSConnectionPool(host='books.toscrape.com', port=443): Max retries exceeded with url: /catalogue/lowriders-to-the-center-of-the-earth-lowriders-in-space-2_712/index.html (Caused by NameResolutionError("HTTPSConnection(host='books.toscrape.com', port=443): Failed to resolve 'books.toscrape.com' ([Errno 11001] getaddrinfo failed)"))
+2026-10-06 18:22:33,066 | WARNING | Could not fetch book details: https://books.toscrape.com/catalogue/love-is-a-mix-tape-music-1_711/index.html | HTTPSConnectionPool(host='books.toscrape.com', port=443): Max retries exceeded with url: /catalogue/love-is-a-mix-tape-music-1_711/index.html (Caused by NameResolutionError("HTTPSConnection(host='books.toscrape.com', port=443): Failed to resolve 'books.toscrape.com' ([Errno 11001] getaddrinfo failed)"))
+2026-10-06 18:22:33,081 | WARNING | Could not fetch book details: https://books.toscrape.com/catalogue/looking-for-lovely-collecting-the-moments-that-matter_710/index.html | HTTPSConnectionPool(host='books.toscrape.com', port=443): Max retries exceeded with url: /catalogue/looking-for-lovely-collecting-the-moments-that-matter_710/index.html (Caused by NameResolutionError("HTTPSConnection(host='books.toscrape.com', port=443): Failed to resolve 'books.toscrape.com' ([Errno 11001] getaddrinfo failed)"))
+2026-10-06 18:22:33,091 | WARNING | Could not fetch book details: https://books.toscrape.com/catalogue/living-leadership-by-insight-a-good-leader-achieves-a-great-leader-builds-monuments_709/index.html | HTTPSConnectionPool(host='books.toscrape.com', port=443): Max retries exceeded with url: /catalogue/living-leadership-by-insight-a-good-leader-achieves-a-great-leader-builds-monuments_709/index.html (Caused by NameResolutionError("HTTPSConnection(host='books.toscrape.com', port=443): Failed to resolve 'books.toscrape.com' ([Errno 11001] getaddrinfo failed)"))
+2026-10-06 18:22:33,099 | WARNING | Could not fetch book details: https://books.toscrape.com/catalogue/let-it-out-a-journey-through-journaling_708/index.html | HTTPSConnectionPool(host='books.toscrape.com', port=443): Max retries exceeded with url: /catalogue/let-it-out-a-journey-through-journaling_708/index.html (Caused by NameResolutionError("HTTPSConnection(host='books.toscrape.com', port=443): Failed to resolve 'books.toscrape.com' ([Errno 11001] getaddrinfo failed)"))
+2026-10-06 18:22:33,111 | WARNING | Could not fetch book details: https://books.toscrape.com/catalogue/lady-midnight-the-dark-artifices-1_707/index.html | HTTPSConnectionPool(host='books.toscrape.com', port=443): Max retries exceeded with url: /catalogue/lady-midnight-the-dark-artifices-1_707/index.html (Caused by NameResolutionError("HTTPSConnection(host='books.toscrape.com', port=443): Failed to resolve 'books.toscrape.com' ([Errno 11001] getaddrinfo failed)"))
+2026-10-06 18:22:33,119 | WARNING | Could not fetch book details: https://books.toscrape.com/catalogue/its-all-easy-healthy-delicious-weeknight-meals-in-under-30-minutes_706/index.html | HTTPSConnectionPool(host='books.toscrape.com', port=443): Max retries exceeded with url: /catalogue/its-all-easy-healthy-delicious-weeknight-meals-in-under-30-minutes_706/index.html (Caused by NameResolutionError("HTTPSConnection(host='books.toscrape.com', port=443): Failed to resolve 'books.toscrape.com' ([Errno 11001] getaddrinfo failed)"))
+2026-10-06 18:22:33,133 | WARNING | Could not fetch book details: https://books.toscrape.com/catalogue/island-of-dragons-unwanteds-7_705/index.html | HTTPSConnectionPool(host='books.toscrape.com', port=443): Max retries exceeded with url: /catalogue/island-of-dragons-unwanteds-7_705/index.html (Caused by NameResolutionError("HTTPSConnection(host='books.toscrape.com', port=443): Failed to resolve 'books.toscrape.com' ([Errno 11001] getaddrinfo failed)"))
+2026-10-06 18:22:33,144 | WARNING | Could not fetch book details: https://books.toscrape.com/catalogue/i-know-what-im-doing-and-other-lies-i-tell-myself-dispatches-from-a-life-under-construction_704/index.html | HTTPSConnectionPool(host='books.toscrape.com', port=443): Max retries exceeded with url: /catalogue/i-know-what-im-doing-and-other-lies-i-tell-myself-dispatches-from-a-life-under-construction_704/index.html (Caused by NameResolutionError("HTTPSConnection(host='books.toscrape.com', port=443): Failed to resolve 'books.toscrape.com' ([Errno 11001] getaddrinfo failed)"))
+2026-10-06 18:22:33,152 | WARNING | Could not fetch book details: https://books.toscrape.com/catalogue/i-am-pilgrim-pilgrim-1_703/index.html | HTTPSConnectionPool(host='books.toscrape.com', port=443): Max retries exceeded with url: /catalogue/i-am-pilgrim-pilgrim-1_703/index.html (Caused by NameResolutionError("HTTPSConnection(host='books.toscrape.com', port=443): Failed to resolve 'books.toscrape.com' ([Errno 11001] getaddrinfo failed)"))
+2026-10-06 18:22:33,162 | WARNING | Could not fetch book details: https://books.toscrape.com/catalogue/hyperbole-and-a-half-unfortunate-situations-flawed-coping-mechanisms-mayhem-and-other-things-that-happened_702/index.html | HTTPSConnectionPool(host='books.toscrape.com', port=443): Max retries exceeded with url: /catalogue/hyperbole-and-a-half-unfortunate-situations-flawed-coping-mechanisms-mayhem-and-other-things-that-happened_702/index.html (Caused by NameResolutionError("HTTPSConnection(host='books.toscrape.com', port=443): Failed to resolve 'books.toscrape.com' ([Errno 11001] getaddrinfo failed)"))
+2026-10-06 18:22:33,176 | WARNING | Could not fetch book details: https://books.toscrape.com/catalogue/hush-hush-hush-hush-1_701/index.html | HTTPSConnectionPool(host='books.toscrape.com', port=443): Max retries exceeded with url: /catalogue/hush-hush-hush-hush-1_701/index.html (Caused by NameResolutionError("HTTPSConnection(host='books.toscrape.com', port=443): Failed to resolve 'books.toscrape.com' ([Errno 11001] getaddrinfo failed)"))
+2026-10-06 18:22:33,191 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 18:22:33,196 | ERROR | Failed to fetch https://books.toscrape.com/catalogue/page-16.html: HTTPSConnectionPool(host='books.toscrape.com', port=443): Max retries exceeded with url: /catalogue/page-16.html (Caused by NameResolutionError("HTTPSConnection(host='books.toscrape.com', port=443): Failed to resolve 'books.toscrape.com' ([Errno 11001] getaddrinfo failed)"))
+2026-10-06 18:22:33,199 | INFO | Books scraped successfully: 300
+2026-10-06 18:22:33,204 | INFO | Scraping quotes page: https://quotes.toscrape.com/
+2026-10-06 18:22:33,212 | ERROR | Failed to fetch https://quotes.toscrape.com/: HTTPSConnectionPool(host='quotes.toscrape.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='quotes.toscrape.com', port=443): Failed to resolve 'quotes.toscrape.com' ([Errno 11001] getaddrinfo failed)"))
+2026-10-06 18:22:33,215 | INFO | Quotes scraped successfully: 0
+2026-10-06 18:22:33,217 | INFO | Books collected: 300
+2026-10-06 18:22:33,217 | INFO | Quotes collected: 0
+2026-10-06 18:22:33,331 | INFO | Records after cleaning: 300
+2026-10-06 18:22:33,347 | INFO | Valid records: 300
+2026-10-06 18:22:33,348 | WARNING | Rejected records: 0
+2026-10-06 18:22:33,358 | INFO | Duplicate records removed: 0
+2026-10-06 18:22:33,479 | INFO | Final dataset saved to: C:\Users\User\OneDrive\Desktop\Scrapping_Assignment\output\final_dataset.csv
+2026-10-06 18:22:33,512 | INFO | Summary saved to: C:\Users\User\OneDrive\Desktop\Scrapping_Assignment\output\summary_report.json
+2026-10-06 18:22:33,545 | INFO | ========== SCRAPING COMPLETED ==========
+2026-10-06 18:25:34,349 | INFO | ========== SCRAPING STARTED ==========
+2026-10-06 18:25:34,349 | INFO | Scraping books page: https://books.toscrape.com/
+2026-10-06 18:25:36,285 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 18:25:38,277 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 18:25:40,063 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 18:25:41,914 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 18:25:43,816 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 18:25:45,780 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 18:25:47,678 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 18:25:49,695 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 18:25:51,573 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 18:25:53,454 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 18:25:55,515 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 18:25:57,418 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 18:25:59,333 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 18:26:01,373 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 18:26:03,224 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 18:26:05,146 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 18:26:07,009 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 18:26:08,883 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 18:26:10,848 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 18:26:12,728 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 18:26:14,634 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 18:26:16,513 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 18:26:18,402 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 18:26:20,276 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 18:26:22,395 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 18:26:24,429 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 18:26:26,281 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 18:26:28,084 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 18:26:30,007 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 18:26:31,826 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 18:26:33,800 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 18:26:35,694 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 18:26:37,561 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 18:26:39,421 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 18:26:41,296 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 18:26:43,182 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 18:26:45,188 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 18:26:47,077 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 18:26:48,959 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 18:26:50,812 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 18:26:52,791 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 18:26:54,752 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 18:26:56,589 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 18:26:58,589 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 18:27:00,842 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 18:27:03,096 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 18:27:05,230 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 18:27:07,199 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 18:27:09,161 | INFO | Scraping books page: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 18:27:11,128 | INFO | Books scraped successfully: 1000
+2026-10-06 18:27:11,130 | INFO | Scraping quotes page: https://quotes.toscrape.com/
+2026-10-06 18:27:12,712 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/2/
+2026-10-06 18:27:14,317 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/3/
+2026-10-06 18:27:15,912 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/4/
+2026-10-06 18:27:17,559 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/5/
+2026-10-06 18:27:19,180 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/6/
+2026-10-06 18:27:20,745 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/7/
+2026-10-06 18:27:22,415 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/8/
+2026-10-06 18:27:24,059 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/9/
+2026-10-06 18:27:25,702 | INFO | Scraping quotes page: https://quotes.toscrape.com/page/10/
+2026-10-06 18:27:27,375 | INFO | Quotes scraped successfully: 100
+2026-10-06 18:27:27,378 | INFO | Books collected: 1000
+2026-10-06 18:27:27,379 | INFO | Quotes collected: 100
+2026-10-06 18:27:27,434 | INFO | Records after cleaning: 1100
+2026-10-06 18:27:27,444 | INFO | Valid records: 1100
+2026-10-06 18:27:27,444 | WARNING | Rejected records: 0
+2026-10-06 18:27:27,455 | INFO | Duplicate records removed: 1
+2026-10-06 18:27:27,476 | INFO | Final dataset saved to: C:\Users\User\OneDrive\Desktop\Scrapping_Assignment\output\final_dataset.csv
+2026-10-06 18:27:27,477 | INFO | Summary saved to: C:\Users\User\OneDrive\Desktop\Scrapping_Assignment\output\summary_report.json
+2026-10-06 18:27:27,478 | INFO | ========== SCRAPING COMPLETED ==========
